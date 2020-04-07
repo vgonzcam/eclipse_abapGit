@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition DEM_01'
+define service ZUI_C_vgc_demo_01 {
+  expose zCvgc_demo_01 as Demo_01;
+}
